@@ -93,8 +93,7 @@ h1 {
 
 #bestseller-content .description p {    
     margin: 25px 0;
-    list-style: ;
-    /* border: 1px solid black bottom; */
+    border-bottom: 1px dashed #000;
 }
 
 /* Sale content */
